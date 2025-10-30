@@ -28,5 +28,5 @@ IT graduate & software developer skilled in Python, JavaScript, and full-stack w
 ![MongoDB](https://img.shields.io/badge/MongoDB-0FA14C?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Tools/Software
-![Jira](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=jira&logoColor=%230052CC)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
